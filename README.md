@@ -26,8 +26,9 @@ To address the above mentioned objectives, we address 3 sections primarily:
 
 ## Some Results
 <center>
-  <img src=https://drive.google.com/uc?export=view&id=19lxGkqFcUEIQVDAJtJc3R9VXpUdlbVpv width="800"/>
+  <img src=https://drive.google.com/uc?export=view&id=19lxGkqFcUEIQVDAJtJc3R9VXpUdlbVpv width="700"/>
 </center>
+
 <center>
   <img src=https://drive.google.com/uc?export=view&id=19mDcSjnAcIH-Nsns7vxufAgND35lbrz0 width="800"/>
 </center>
