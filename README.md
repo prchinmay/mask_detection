@@ -1,6 +1,7 @@
 # Mask Detection
 
 <center>
+  
   <img src=https://drive.google.com/uc?export=view&id=19TcTNVctD3HHk4mph-pm55TQk867GIIg width="1000"/>
 </center>
 
